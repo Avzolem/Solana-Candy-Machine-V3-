@@ -31,7 +31,7 @@ curl https://docs.metaplex.com/assets/files/assets-ff6bd873ecd07b49c86faf3c7aab8
 unzip assets.zip
 
 sugar launch
-#Candy Machine ID EDTN7BavWoRZseBDu29iorDzHuPx6VLY4N2PxhNXvjiy
+#Candy Machine ID CCppFuvrQjqxwjKAaXCEVu1DvGpJRGxYcdF2Baj2xBa6
 
 # https://www.solaneyes.com/address/4e756cDfoayQ2EpTfKbmvkyFUksN8ngUJrHak9ZTJ4Sp?cluster=devnet
 
