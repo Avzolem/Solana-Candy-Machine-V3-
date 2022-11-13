@@ -1,7 +1,7 @@
 {
-  "name": "Number #0008",
-  "symbol": "NB",
-  "description": "Collection of 10 numbers on the blockchain. This is the number 8/10.",
+  "name": "AuCoin #0008",
+  "symbol": "AC",
+  "description": "AuCoins Collection. This is the number 8/16. Hackathon Etherfuse 2022",
   "image": "7.png",
   "attributes": [
     {

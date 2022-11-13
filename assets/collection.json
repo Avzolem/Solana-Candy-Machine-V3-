@@ -1,7 +1,7 @@
 {
-  "name": "Numbers Collection",
-  "symbol": "NB",
-  "description": "Collection of 10 numbers on the blockchain.",
+  "name": "AuCoins Collection",
+  "symbol": "AC",
+  "description": "Collection of the first 16 AuCoins Hackathon Etherfuse 2022",
   "image": "collection.png",
   "attributes": [],
   "properties": {

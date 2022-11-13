@@ -1,96 +1,144 @@
 {
   "program": {
-    "candyMachine": "4e756cDfoayQ2EpTfKbmvkyFUksN8ngUJrHak9ZTJ4Sp",
-    "candyMachineCreator": "HhrXbq4aKoScR9AgM7ebePYQW2iQEduXMV1u4TbvoXa2",
-    "collectionMint": "7bmksf7Jaa3VXurMB7R9vzFQrHj2hJuEyvcTfwdUQm8h"
+    "candyMachine": "CCppFuvrQjqxwjKAaXCEVu1DvGpJRGxYcdF2Baj2xBa6",
+    "candyMachineCreator": "52uF5PN4ceS7h4uvQCjXWywCPSKiDHcL3XA2kjuJuGCc",
+    "collectionMint": "7gPXAtws1yMU4Roz59rPnj6ba7arUsCeWxUAu4sUUUM"
   },
   "items": {
     "-1": {
-      "name": "Numbers Collection",
-      "image_hash": "845148a26244b24f37dbaf86270cfe05d28f574c7247383a64c1ad72a130906f",
-      "image_link": "https://arweave.net/z6JdZD5MrTvH-tS74vX4OVpdRc0R38-GXfRuzZZwko8?ext=png",
-      "metadata_hash": "78315e014d50212b79be1b35e0107bfcb1bbf808815b926e58b829c92a068787",
-      "metadata_link": "https://arweave.net/KW4Us0RgLZL9czmFauanRH6LTV5x3o8oWd6MHPWmbdA",
+      "name": "AuCoins Collection",
+      "image_hash": "bd44d2609dd9cd3fca79b709bc847950bf490004782cacb1fce9d7370464c8a5",
+      "image_link": "https://arweave.net/5CwIIq8unEqQa8_XbBiwgI6XdHNA2QAJ49Vlcdz_7I0?ext=png",
+      "metadata_hash": "128ab6b360e860014f765119727f304c9db01b981ace68b0ced20c7b2a0e1830",
+      "metadata_link": "https://arweave.net/QwgTm2B6ImyPW6cj_oaCGUOFL_jKoE6eauQOWdYmcFU",
       "onChain": true
     },
     "0": {
-      "name": "Number #0001",
-      "image_hash": "36ae5333e54b457cedcc6ec93a84970f05ed57452ca9745a0768ed40cd93e5fa",
-      "image_link": "https://arweave.net/0QaDZ0-4zhB_o19mAVMilbc_TLiGd8t6y1SCDi1k7PE?ext=png",
-      "metadata_hash": "600bca4ee6de7d54190134b585ef906e592960044f4c116deb3d1db8a682775b",
-      "metadata_link": "https://arweave.net/Gu0ZDY3wpJuTKAQzm_QpbGrqWBV8g_Q94q_8bqgr9Lg",
+      "name": "AuCoin #0001",
+      "image_hash": "fbbb46e5e2c28344e70287bcd003acd6702eb3900a9625fa21b8630f3044e917",
+      "image_link": "https://arweave.net/-Kc4BJcTfleBPcmizDA_q-FmlzdulDg7u4Pwcet5Lng?ext=png",
+      "metadata_hash": "229c95f44d672c0eb3c0c9c712aeae6e0360a9d5c9375483053a51946b55a8bc",
+      "metadata_link": "https://arweave.net/RtSG0Jewi2jk5mZ4xZS6iZ_ORw68cRMXOPYmjGaRu1c",
       "onChain": true
     },
     "1": {
-      "name": "Number #0002",
-      "image_hash": "c30ce4e4cb022932754f6a3da2de91e9da3194bf7dc5426333d596fa4b948e8f",
-      "image_link": "https://arweave.net/AyxBDRjUEhzuQckxUaOGX8rgwNDd1lVAqNeAx9R-A4k?ext=png",
-      "metadata_hash": "e3bc55f8a1d2b43d534f10446a1e92a87d546d3947dfb41cae5eb943db0fa6b2",
-      "metadata_link": "https://arweave.net/KrxfR4uM5g-ZkEyaQ7S3E2YjDwQrkDQdO84Z4inUgBM",
+      "name": "AuCoin #0002",
+      "image_hash": "f4515e4e750a1b9b4d4279a489594e68e90cf44f8b46705573e5979a634eadd2",
+      "image_link": "https://arweave.net/rVECO2txVC8-6g75fzRtv1Q3uVfSUXDc8gOUtN4ockA?ext=png",
+      "metadata_hash": "60871327ac74be11902dbadb714520cf1356bd8cf168712648fce91371346c01",
+      "metadata_link": "https://arweave.net/nbtbgBlgiohSq_bGJg4rPLcKp8a2G65dCyNUlWX9SIs",
       "onChain": true
     },
     "2": {
-      "name": "Number #0003",
-      "image_hash": "fce1a5670d184691eb63db78a3f438bf6360a6fa99e0a6c82d432cb674d205ea",
-      "image_link": "https://arweave.net/FqhsnEOWSbK-010pUSRU49w_lOsCet4vij8FYJyT8fk?ext=png",
-      "metadata_hash": "bf25e77a7bd3b5e66a0abe0f52e042cc67cb71502bee88e38b3262c7ca752b6e",
-      "metadata_link": "https://arweave.net/aYLJwN7yO2kSUg74utYhsun51TS2xaBStaY26HD5VE0",
+      "name": "AuCoin #0003",
+      "image_hash": "ad6497589d46dbc600a2cc70e13261fc206d603d80a1f35e6e2f62e861b71f84",
+      "image_link": "https://arweave.net/1ahyEkfJHbymyeSLFLmYFYcrv1JrIdCr81lUiuUSrDA?ext=png",
+      "metadata_hash": "443f83088551e5e029f5fee064a7428cd47ff654aca41c751fc4f69caa937619",
+      "metadata_link": "https://arweave.net/cvhpOlh-DWgw_0MyXNPnI87iMcNq-bs-XfLufN3vm4Q",
       "onChain": true
     },
     "3": {
-      "name": "Number #0004",
-      "image_hash": "40f27fc65fbc78a16bdcbfd916af2fa72ef6a6da820dd4a1f34fe8087a329ad7",
-      "image_link": "https://arweave.net/V-BO4MBTR2qDHoljZqOmcqdCa1Mn_HI14JMYL9nC3Oo?ext=png",
-      "metadata_hash": "e26404952b5950952d42b79488f2a397fe455331cf6e4caec5962f6ca03765c1",
-      "metadata_link": "https://arweave.net/XnRP4zwb4YOAmWRArw_BzzjfAE1kpx7cNsKEYvxFMOI",
+      "name": "AuCoin #0004",
+      "image_hash": "cdc49dd64e124ad079ed9b2f616b13858855eafe28d64773d847581aec0aa028",
+      "image_link": "https://arweave.net/FZU3e-5BmWSoHJ80T3C8feR2M0FEnGUudrOjHdwLJ2E?ext=png",
+      "metadata_hash": "c7757235b5ef38fa39126df476c1cb40c9106ddc1ad14359fec11fac1fdf7a6f",
+      "metadata_link": "https://arweave.net/ID0tIldOySuIC0HuhJnYuqvTbjDOOvxGdwZm0e03UXE",
       "onChain": true
     },
     "4": {
-      "name": "Number #0005",
-      "image_hash": "0a671b125b423212f0c3c44ec9ae4efb165d4db02076dee5353cdd7620037843",
-      "image_link": "https://arweave.net/Klr3L5Vo6xo1pYYNJnMYZGLMBTcUJHcfQlfjSlKveZ8?ext=png",
-      "metadata_hash": "e62e40726e277a412a5d926ffd2bb4967eeb37c227e7f87919947619e7779a0f",
-      "metadata_link": "https://arweave.net/wXzLgzOgwUgCcrVLDRJre-wo3I-0wwQznakRTuDiJH0",
+      "name": "AuCoin #0005",
+      "image_hash": "30b0628dab363a983936a0b0be1afb0d21d140271401a67d893714fdfb12242a",
+      "image_link": "https://arweave.net/ytSxsnzjBRsLLrgn_MSVQH-0fIaMCtAxpJKrTkTw3mY?ext=png",
+      "metadata_hash": "a3f187f4258d19269778eb08b42b096edf7b9caceca43f5b3dd3767f65e7772b",
+      "metadata_link": "https://arweave.net/zuNZULndarwE2dLKFL37aIRl6eHp7jklUZellipp0wc",
       "onChain": true
     },
     "5": {
-      "name": "Number #0006",
-      "image_hash": "dece4d558f8b35bdfc9390e5f636f9163a3f63109e0175480eb9cc168b74901a",
-      "image_link": "https://arweave.net/GEWR-2bAUbmClDpMNlyRZSJq0j12S-SMhFGF3K3azL0?ext=png",
-      "metadata_hash": "951a5a235f0b2b82821d12966dcc1961dffb1af471932ea12e98cd137b05597c",
-      "metadata_link": "https://arweave.net/tNEtTbzvrlY1_LCQtc1j_eQkR77fsLEiI6mAV-d_vm0",
+      "name": "AuCoin #0006",
+      "image_hash": "44349fd46b16d83ed3b5ac36736b4e87e1dc8c58a77fc7c603992be8a656bf35",
+      "image_link": "https://arweave.net/rETLPELX5s6GheTB5uEOp0lwUZyOfnBY0nOBgjXPjTY?ext=png",
+      "metadata_hash": "0b1432edaa53310dfc1c9eb7de5bc524cf97fc393864c2fb9ea682ad364bb9c1",
+      "metadata_link": "https://arweave.net/FcsP5bQ-Ht4M0g8VhYJVpEBJHO5I_AEMtK7AoDctmCc",
       "onChain": true
     },
     "6": {
-      "name": "Number #0007",
-      "image_hash": "c932a9a3392578695ce1b21527ba641441e046795dd65ac2f910df4a9c789c10",
-      "image_link": "https://arweave.net/x20ncJRNUcGmHhj0SV9Aud62gQFw5dRks1LqaKxH0yk?ext=png",
-      "metadata_hash": "1777430c7a173a4f9544d29fa613178108fa86dab16ce8de8e3a5d40ff68ab32",
-      "metadata_link": "https://arweave.net/hnhcuhXdncaUuBQ4oErR7yFiI81db2npCMxc5uiMx84",
+      "name": "AuCoin #0007",
+      "image_hash": "c4a93970b4aa98d3b46e9d08bf5f1910d47c397f0426f17e84f88ae3101b9371",
+      "image_link": "https://arweave.net/xvrFxFfZXSjm-7u48iDzrORXHpme_uYlTTqDu5ZQLVU?ext=png",
+      "metadata_hash": "14e8b8151b29bd15474ac0619a8ff8ff40d4ad7b2ca377758a088b7c5278bd70",
+      "metadata_link": "https://arweave.net/5kFywC3KfCW1mibMqJ1Nw9_7RbvqQiv5FrCXa1qmPh4",
       "onChain": true
     },
     "7": {
-      "name": "Number #0008",
-      "image_hash": "8b9237fdba6f2f042bd4d7aa13f17d357f4a9f5f9c8ea3c9681be70d783407b7",
-      "image_link": "https://arweave.net/PxMIIWPBgTogcg3dYYwFSXCtGEeaxBbWn3_xGVzn4jo?ext=png",
-      "metadata_hash": "963c6603e36ab200c6bc5ff2dae95fc2f09524c898b1a48c4cc7c92283c51617",
-      "metadata_link": "https://arweave.net/wxPiriVwvMh1_aQ7fhJCqZxXMHRZyarnWcv9QkjtqJ0",
+      "name": "AuCoin #0008",
+      "image_hash": "790b77f8d219c63b0e6f5b7e46e9138b9a3c0e7a266f335bf395aeeab8e8f86c",
+      "image_link": "https://arweave.net/tsNXJDxS1D9b1jPGyF50NzyNZA9K03uSC0LhXlqSJZ8?ext=png",
+      "metadata_hash": "de1955b69382ba09c25ee93858620b43706f37beca83c1baa13e57e559c2287c",
+      "metadata_link": "https://arweave.net/emDXDja44t2vEP6JDnmcVdN435ONWVh0BM2fA9QJtBA",
       "onChain": true
     },
     "8": {
-      "name": "Number #0009",
-      "image_hash": "6603768936174e9bd4dcc00a76c4354aed00c7e120232338fc7bf56bf02c0de0",
-      "image_link": "https://arweave.net/0Ut-n-Xrk4ZICjmo6GdKw3f0PspVROvFPzORM9v5Eug?ext=png",
-      "metadata_hash": "4539a7db3447b6a70edafeb198b16b11203137a00f8ffaaf649f7311245e907b",
-      "metadata_link": "https://arweave.net/KW1IOwF76lphKlq0Cqx3Br3fmrRk9dQ6BLGb2YvVgXI",
+      "name": "AuCoin #0009",
+      "image_hash": "7be94f94778b7ee07cfbf456f7336eb9f250084e7cbab22daf29c89192add76b",
+      "image_link": "https://arweave.net/K9q_qoFIEsVszTXSQZMs3-pmMuD3qzUlZU6bNoIJEH0?ext=png",
+      "metadata_hash": "c650d69393cf8ee37a8056fc6c01489474c9d6733ef9b7107a20248e09adaa4b",
+      "metadata_link": "https://arweave.net/tRIQf4lCoPpnwGc32aeWYGHHKWnl3xZqt6tP41DhGMM",
       "onChain": true
     },
     "9": {
-      "name": "Number #0010",
-      "image_hash": "287fcfb43c931987df8e5574e71f30da2db437a552542698027ea4b3dca4a3c0",
-      "image_link": "https://arweave.net/uZ0L2nw4UdHcG3ZA2WGzVkvUWc-88nngWbQAZlVrwHk?ext=png",
-      "metadata_hash": "3043638318772da781b88391b95a27fea2c0b23fb5ef5b195b03d7475f55f837",
-      "metadata_link": "https://arweave.net/MdxXMhT1r4zw3RTr1oNhVr-mn4HvIHhUrfWIxkCGHqE",
+      "name": "AuCoin #0010",
+      "image_hash": "f9ce37967738a1cf8dcef7d7f7839644c0ffe45b8ba1d7906308901a4799b7e4",
+      "image_link": "https://arweave.net/5eCJOA78NDVX5XYO-virND5-yYw3xnv9eRQEg8nmntU?ext=png",
+      "metadata_hash": "024297068dc11a51ca359f74c3e144bbb83bbdead9d4efea8b9457995592f0b9",
+      "metadata_link": "https://arweave.net/s9Ls1lKVgVKdgxEnsgemvypoM9jzvQxx4lezitWBa1E",
+      "onChain": true
+    },
+    "10": {
+      "name": "AuCoin #0011",
+      "image_hash": "a5f2ba0d41e3bebf751e5d4205045ce15fe9ae6748f60351d55d9c9af6b09675",
+      "image_link": "https://arweave.net/ld6s6QRLHTaVnKyBzXnPbzMaC-2nDOXb-q7NGDWAOE0?ext=png",
+      "metadata_hash": "9bc40105808b696a1a0035c0c5f61496980b985600618ed29e0d1893f0b3ce4c",
+      "metadata_link": "https://arweave.net/tvTvkbqJ_k3h9fIImLTG2Z9dOKyFEZdmQ7JrjkGOXdQ",
+      "onChain": true
+    },
+    "11": {
+      "name": "AuCoin #0012",
+      "image_hash": "24c2c11c3d48c40164df0e9d462ec603be3862cacb8b2d3dd85bbf3b1d18d27f",
+      "image_link": "https://arweave.net/3xaVdvSkunJgpzgwFCjF-AMLrFZXSuPYZztCW0XTuOA?ext=png",
+      "metadata_hash": "df6051dc377199f94ef32d2428388c41798922dc4c36a2e8b1352a9c08126081",
+      "metadata_link": "https://arweave.net/nrOHgSS2xjsVJ9Vu6-V1O6bS7Hb-IC2dCSW22FK7SwQ",
+      "onChain": true
+    },
+    "12": {
+      "name": "AuCoin #0013",
+      "image_hash": "69096f6bf9cd1849e1404e8717e0d5d8152a08b3b5e6e598a7c2ec69599ac30a",
+      "image_link": "https://arweave.net/wqRAAmg8a27rL63Iu0qKKb9hMz-LVdsnd73i9hplrtM?ext=png",
+      "metadata_hash": "6af57dade6eaed0f69013f88633bfbf976ff2b1e5dcd1d5ed5d61f28d1257f4f",
+      "metadata_link": "https://arweave.net/PTvUxp826YhtJzWmC4TcwIAC0FD2TRRe76tIEGEHQII",
+      "onChain": true
+    },
+    "13": {
+      "name": "AuCoin #0014",
+      "image_hash": "872b7c3ade5d589c871605159befcb5335c29cf149b3d3324c3c5a00f74b1ff5",
+      "image_link": "https://arweave.net/G9r52V8v_ZH9g-NkJhxhnlm23EdSQCdcoJcWD_uXsDA?ext=png",
+      "metadata_hash": "556ee962fbd34c5b7df5cd0f6d5a7d3a27e7dcbb9975125c96297059ac053f81",
+      "metadata_link": "https://arweave.net/_R3kqY4g0DF6hD0ZENShJnHkogNemoR47QXCTItNox8",
+      "onChain": true
+    },
+    "14": {
+      "name": "AuCoin #0015",
+      "image_hash": "d8018c045bef6d35272f24cdc8363f6540b34da27e7703c5cb6635687c969093",
+      "image_link": "https://arweave.net/EPh3MOhk-0PtFqKF3GCHfKwHhqLav-W0Ny8v-MvjVco?ext=png",
+      "metadata_hash": "c2eaa9da4fe1a18f0933fba6f183339dd94a4f994219aee556d277ea79b20a2a",
+      "metadata_link": "https://arweave.net/fmed3ZsridJVkBsUOpzs2X2HjmdH84Y_-zzVulKd4Ag",
+      "onChain": true
+    },
+    "15": {
+      "name": "AuCoin #0016",
+      "image_hash": "cd57b5f27b9b35a252e08a57404eb81701103ba3e4b0102d4fbfe52c5e446f52",
+      "image_link": "https://arweave.net/gvnS1wOkC3MmCiie52B1IOMxmHwxcdkBKcDdTMk2ieY?ext=png",
+      "metadata_hash": "350f52a04bc2b91089af74c5591e8e94cc1fb0005fc3b98f500f7c727ba7d474",
+      "metadata_link": "https://arweave.net/tY4tqsamBa_iou4OO2AFSVyB6pcIOFNkLzNhDPh4CVg",
       "onChain": true
     }
   }

@@ -1,0 +1,20 @@
+{
+  "name": "AuCoin #0013",
+  "symbol": "AC",
+  "description": "AuCoins Collection. This is the number 13/16. Hackathon Etherfuse 2022",
+  "image": "12.png",
+  "attributes": [
+    {
+      "trait_type": "Number",
+      "value": "13"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "12.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
